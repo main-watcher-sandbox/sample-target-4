@@ -1,15 +1,13 @@
 {
-  "failing_tests": [
-    "Gamma"
-  ],
+  "failing_tests": [],
   "timed_tests": true,
   "slow_suite_minutes": 0,
-  "hang_test": false,
+  "hang_test": true,
   "flaky_test": false,
   "inspect_environment": false,
   "fail_restore": false,
   "fail_upload": false,
-  "hang_upload": true,
+  "hang_upload": false,
   "hang_upload_forever": false,
   "slow_check_minutes": 0
 }
